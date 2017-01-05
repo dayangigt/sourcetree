@@ -1,4 +1,9 @@
 start file2 in mainline
 modify in dev12
 modify in dev12 again.
+modify in master<<<<<<< HEAD
 modify in master
+=======
+check out dev12 for modify 
+check out dev12 after the master submit
+>>>>>>> dev12
