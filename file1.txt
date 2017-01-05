@@ -7,3 +7,4 @@ update in mainline
 checkout master
 update after the push the code to github
 update after the github again(2)
+update master in 
